@@ -25,9 +25,12 @@ this repository.
 
 ### Claude (web, desktop or mobile)
 
-1. Open Settings, then Connectors.
-2. Choose Add custom connector and paste the address.
-3. Choose Connect and sign in with your StellaFrame account.
+1. Open StellaFrame in Claude's connector directory,
+   https://claude.ai/directory/connectors/stellaframe, and add it.
+2. Choose Connect and sign in with your StellaFrame account.
+
+Or add it yourself: in Claude, open Plugins, choose Add, then Add custom
+connector, and paste the address.
 
 ### Claude Code
 
